@@ -9,7 +9,7 @@ import java.awt.CardLayout;
 
 /**
  *
- * @author Fajar
+ * @author Rayhan
  */
 public class GambarButton extends javax.swing.JFrame {
 
